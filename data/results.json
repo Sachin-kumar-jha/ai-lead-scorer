@@ -9,7 +9,7 @@
     "score": 100,
     "rule_score": 50,
     "ai_points": 50,
-    "reasoning": "Ava's role as Head of Growth, her focus on 'scaling growth by building outbound channels,' and her past experience at Stripe strongly align with the value proposition of 'AI Outreach Automation' for '24/7 outreach' and '6x more meetings.' She is actively looking for solutions that this product directly offers."
+    "reasoning": "Ava's role as 'Head of Growth' with the goal to 'Scale growth by building outbound channels' directly aligns with the 'AI Outreach Automation' product's value proposition of '24/7 outreach; 6x more meetings' for B2B SaaS, making her an ideal lead."
   },
   {
     "name": "John Doe",
@@ -21,7 +21,7 @@
     "score": 30,
     "rule_score": 20,
     "ai_points": 10,
-    "reasoning": "While the lead's role involves 'automation,' it's focused on 'production line automation' in 'Manufacturing.' The offer is for 'AI Outreach Automation' for 'B2B SaaS mid-market,' which is a very different domain and application, making the fit unlikely."
+    "reasoning": "The offer is for 'AI Outreach Automation' primarily targeting 'B2B SaaS mid-market' companies, aiming to generate more meetings. The lead, an 'Engineering Manager' in 'Manufacturing' who 'Leads ops for production line automation,' has a role and industry that are not well-aligned with the core value proposition of outreach automation for B2B SaaS, suggesting a low likelihood of immediate interest."
   },
   {
     "name": "Jane Smith",
@@ -33,6 +33,6 @@
     "score": 80,
     "rule_score": 30,
     "ai_points": 50,
-    "reasoning": "Jane's role as VP Sales at a B2B SaaS company directly aligns with the 'B2B SaaS mid-market' ideal use case. Her experience in 'client acquisition' also points to a need for tools that enhance outreach and meeting generation, which are the core value propositions of 'AI Outreach Automation'."
+    "reasoning": "Jane's role as VP Sales at a B2B SaaS company directly aligns with the 'B2B SaaS mid-market' ideal use case. Her experience in client acquisition is highly relevant to the value proposition of '6x more meetings'."
   }
 ]

@@ -12,7 +12,7 @@ const server = http.createServer(app);
 
 // Start the server and log the listening port
 server.listen(PORT, () => {
-  console.log(`🚀 Server is running on http://localhost:${PORT}`);
+  console.log(`Server is running on http://localhost:${PORT}`);
 });
 
 // Optional: handle server errors gracefully
