@@ -80,6 +80,11 @@ npm run start
 Default port: 8787
 ```
 
+# Set up in single command using Docker 
+- Simply run in root folder
+``` bash
+docker compose up
+```
 # API Endpoints
 # 1️. POST /offer
 Purpose: Create or update the current offer.
