@@ -1,38 +1,62 @@
 [
   {
-    "name": "Ava Patel",
-    "role": "Head of Growth",
-    "company": "FlowMetrics",
-    "industry": "SaaS",
-    "location": "San Francisco",
+    "name": "Alice Johnson",
+    "role": "CEO",
+    "company": "TechCorp",
+    "industry": "B2B SaaS mid-market",
+    "location": "New York",
     "intent": "High",
     "score": 100,
     "rule_score": 50,
     "ai_points": 50,
-    "reasoning": "Ava's role as 'Head of Growth' with the goal to 'Scale growth by building outbound channels' directly aligns with the 'AI Outreach Automation' product's value proposition of '24/7 outreach; 6x more meetings' for B2B SaaS, making her an ideal lead."
+    "reasoning": "The lead's industry and role (B2B SaaS mid-market CEO) perfectly align with the ideal use case and the value propositions (24/7 outreach, 6x more meetings) of the AI Outreach Automation offer."
   },
   {
-    "name": "John Doe",
-    "role": "Engineering Manager",
-    "company": "Acme Corp",
-    "industry": "Manufacturing",
-    "location": "Boston",
+    "name": "Bob Smith",
+    "role": "VP of Sales",
+    "company": "Marketify",
+    "industry": "B2B SaaS enterprise",
+    "location": "San Francisco",
     "intent": "Low",
-    "score": 30,
-    "rule_score": 20,
+    "score": 50,
+    "rule_score": 40,
     "ai_points": 10,
-    "reasoning": "The offer is for 'AI Outreach Automation' primarily targeting 'B2B SaaS mid-market' companies, aiming to generate more meetings. The lead, an 'Engineering Manager' in 'Manufacturing' who 'Leads ops for production line automation,' has a role and industry that are not well-aligned with the core value proposition of outreach automation for B2B SaaS, suggesting a low likelihood of immediate interest."
+    "reasoning": "The offer is for B2B SaaS mid-market, but the lead is from a B2B SaaS enterprise company, indicating a mismatch in target audience. While the role (VP of Sales) aligns, the company size divergence makes the immediate fit unlikely."
   },
   {
-    "name": "Jane Smith",
-    "role": "VP Sales",
-    "company": "TechNova",
-    "industry": "Software",
-    "location": "New York",
+    "name": "Charlie Davis",
+    "role": "Marketing Manager",
+    "company": "AdStream",
+    "industry": "B2B SaaS mid-market",
+    "location": "Chicago",
     "intent": "High",
-    "score": 80,
-    "rule_score": 30,
+    "score": 90,
+    "rule_score": 40,
     "ai_points": 50,
-    "reasoning": "Jane's role as VP Sales at a B2B SaaS company directly aligns with the 'B2B SaaS mid-market' ideal use case. Her experience in client acquisition is highly relevant to the value proposition of '6x more meetings'."
+    "reasoning": "Charlie's role as Marketing Manager at a B2B SaaS mid-market company aligns perfectly with the 'ideal use cases' and 'value props' of AI Outreach Automation. The LinkedIn bio also suggests an interest in campaign specialization, which relates to the product's function."
+  },
+  {
+    "name": "Diana Lee",
+    "role": "Founder",
+    "company": "InnovateX",
+    "industry": "B2B SaaS mid-market",
+    "location": "Los Angeles",
+    "intent": "High",
+    "score": 100,
+    "rule_score": 50,
+    "ai_points": 50,
+    "reasoning": "Diana's company, InnovateX, operates in the B2B SaaS mid-market, which perfectly aligns with the 'ideal_use_cases' for AI Outreach Automation. As a Founder, she is likely a key decision-maker for solutions that promise '6x more meetings' and '24/7 outreach', directly addressing a common pain point for B2B SaaS companies."
+  },
+  {
+    "name": "Ethan Brown",
+    "role": "Senior Product Lead",
+    "company": "CloudSolutions",
+    "industry": "B2B SaaS startup",
+    "location": "Austin",
+    "intent": "Medium",
+    "score": 60,
+    "rule_score": 30,
+    "ai_points": 30,
+    "reasoning": "Ethan's role and company (B2B SaaS) align perfectly with the 'AI Outreach Automation' product. However, his focus as a 'Product Lead' means he might be more interested in building such a solution rather than buying one for his company's sales/marketing team, leading to a medium intent rather than high."
   }
 ]
