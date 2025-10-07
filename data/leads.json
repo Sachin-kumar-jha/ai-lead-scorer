@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ava Patel",
+    "role": "Head of Growth",
+    "company": "FlowMetrics",
+    "industry": "SaaS",
+    "location": "San Francisco",
+    "linkedin_bio": "Scale growth by building outbound channels. Ex-Stripe."
+  },
+  {
+    "name": "John Doe",
+    "role": "Engineering Manager",
+    "company": "Acme Corp",
+    "industry": "Manufacturing",
+    "location": "Boston",
+    "linkedin_bio": "Leads ops for production line automation"
+  },
+  {
+    "name": "Jane Smith",
+    "role": "VP Sales",
+    "company": "TechNova",
+    "industry": "Software",
+    "location": "New York",
+    "linkedin_bio": "Experienced in SaaS B2B sales and client acquisition"
+  }
+]

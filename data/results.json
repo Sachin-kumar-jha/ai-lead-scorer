@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ava Patel",
+    "role": "Head of Growth",
+    "company": "FlowMetrics",
+    "industry": "SaaS",
+    "location": "San Francisco",
+    "intent": "High",
+    "score": 100,
+    "rule_score": 50,
+    "ai_points": 50,
+    "reasoning": "Ava's role as Head of Growth, her focus on 'scaling growth by building outbound channels,' and her past experience at Stripe strongly align with the value proposition of 'AI Outreach Automation' for '24/7 outreach' and '6x more meetings.' She is actively looking for solutions that this product directly offers."
+  },
+  {
+    "name": "John Doe",
+    "role": "Engineering Manager",
+    "company": "Acme Corp",
+    "industry": "Manufacturing",
+    "location": "Boston",
+    "intent": "Low",
+    "score": 30,
+    "rule_score": 20,
+    "ai_points": 10,
+    "reasoning": "While the lead's role involves 'automation,' it's focused on 'production line automation' in 'Manufacturing.' The offer is for 'AI Outreach Automation' for 'B2B SaaS mid-market,' which is a very different domain and application, making the fit unlikely."
+  },
+  {
+    "name": "Jane Smith",
+    "role": "VP Sales",
+    "company": "TechNova",
+    "industry": "Software",
+    "location": "New York",
+    "intent": "High",
+    "score": 80,
+    "rule_score": 30,
+    "ai_points": 50,
+    "reasoning": "Jane's role as VP Sales at a B2B SaaS company directly aligns with the 'B2B SaaS mid-market' ideal use case. Her experience in 'client acquisition' also points to a need for tools that enhance outreach and meeting generation, which are the core value propositions of 'AI Outreach Automation'."
+  }
+]
